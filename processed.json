@@ -858,5 +858,25 @@
     "Department": "Department of Agriculture",
     "Notes / Edge_Cases": "District eligibility is crop-specific; Subsidy allowed from only one scheme per item; Land records mandatory; Crop presence mandatory for component eligibility; Machinery/pump must meet certification norms",
     "Issues": "None reported"
-  }
+  },
+  {
+  "Scheme_Name": "Organic Farming Promotion Scheme",
+  "State": "ALL",
+  "Category": "Organic Farming",
+  "Eligibility Crops": "ALL",
+  "Min_Land_Size": "0.1",
+  "Max_Land_Size": "10",
+  "Land_Size_Unit": "Hectare",
+  "Income_Category": "ALL",
+  "Farmer_Category": "ALL",
+  "Benefit_Type": "Subsidy",
+  "Benefit_Description": "Government provides financial support to farmers adopting organic farming methods.",
+  "Required_Documents": "Aadhaar Card, Land Records, Bank Account",
+  "Application_Mode": "Online",
+  "Official_Link": "https://agricoop.gov.in",
+  "Deadline": "Rolling",
+  "Department": "Ministry of Agriculture",
+  "Notes / Edge_Cases": "Encourages sustainable farming practices.",
+  "Issues": "None"
+}
 ]
