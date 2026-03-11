@@ -878,5 +878,26 @@
   "Department": "Ministry of Agriculture",
   "Notes / Edge_Cases": "Encourages sustainable farming practices.",
   "Issues": "None"
+},
+  {
+  "Scheme_Name": "Agricultural Drone Subsidy Scheme",
+  "State": "ALL",
+  "Category": "Technology",
+  "Eligibility Crops": "ALL",
+  "Min_Land_Size": "0.5",
+  "Max_Land_Size": "20",
+  "Land_Size_Unit": "Hectare",
+  "Income_Category": "ALL",
+  "Farmer_Category": "Small Farmer, Marginal Farmer",
+  "Benefit_Type": "Subsidy",
+  "Benefit_Description": "Government provides up to 50% subsidy for purchasing agricultural drones for crop monitoring and pesticide spraying.",
+  "Required_Documents": "Aadhaar Card, Land Records, Bank Account, Drone Quotation",
+  "Application_Mode": "Online",
+  "Official_Link": "https://agricoop.gov.in",
+  "Deadline": "Rolling",
+  "Department": "Ministry of Agriculture",
+  "Notes / Edge_Cases": "Promotes smart farming technologies.",
+  "Issues": "None"
 }
+  
 ]
